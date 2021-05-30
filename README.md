@@ -1,6 +1,6 @@
 # mei-mei
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/you/mei-mei/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mei-me-i/mei-mei/main)
 
 My project with Jupyter Notebook
 
